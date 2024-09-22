@@ -1,2 +1,2 @@
-Run file index.html for start.
-Запустите файл index.html для запуска проекта.
+Run file script.py for start.
+Запустите файл script.py для запуска проекта.
